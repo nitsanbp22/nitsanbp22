@@ -54,6 +54,46 @@ The production platform currently includes around 20 interactive greeting types 
 
 [Explore the Product, Brand & UI/UX case study](https://github.com/nitsanbp22/heartnote-showcase) · [Visit HeartNote](https://heartnote.co.il)
 
+### [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
+
+An active mobile-first wardrobe product that helps users organize their closet and receive personalized outfit recommendations based on occasion, styling coherence, weather, comfort, and learned preferences.
+
+My work on SET includes product definition, UX flows, wardrobe and outfit modeling, recommendation behavior, personalization rules, responsive design, and full-stack implementation.
+
+Product highlights:
+
+- digital closet with structured wardrobe data
+- guided item onboarding and metadata enrichment
+- Dress Me recommendation experience
+- occasion-aware and weather-aware outfit suggestions
+- canonical outfit rules that prevent invalid combinations
+- personalization based on user behavior and saved looks
+- travel and suitcase mode
+- mobile-first PWA with Hebrew and English support
+
+[Explore SET](https://github.com/nitsanbp22/set-wardrobe-showcase)
+
+### [Berlin Trip Planner | Collaborative Map-Based Travel Planning Product](https://github.com/nitsanbp22/berlin-trip-planner-showcase)
+
+**Live private product used during a real Berlin trip**, built to replace a fragmented planning process across Google Maps, notes, messages and saved places with one shared system.
+
+The current product combines 130 curated places across 7 trip days with map-first planning, daily itineraries, external place enrichment and personal travel tools.
+
+Product and UX highlights:
+
+- trip-wide planning across seven days with ordered stops
+- Leaflet + OpenStreetMap map experience with category, day, favorite and visited state
+- day-specific routes and numbered stops
+- curated walking zones for neighborhood-level planning
+- Google Places search, ratings, real photos and Google Maps handoff
+- map + list interaction model across desktop and mobile
+- shared trip state alongside personal packing, tasks and notes
+- Supabase Auth, RLS and Realtime collaboration
+- mobile UX designed for actual in-trip use
+- iteration based on real behavior during the trip
+
+[Explore the Berlin Trip Planner case study](https://github.com/nitsanbp22/berlin-trip-planner-showcase)
+
 ### [Personal Brand Website | UI/UX, Visual Identity & Product Design](https://github.com/nitsanbp22/personal-site-showcase)
 
 **Live custom-domain website** that brings several creative disciplines into one coherent personal brand and business experience.
@@ -73,25 +113,6 @@ Product and design highlights:
 - SEO, social preview, launch, and custom-domain delivery
 
 [Explore the website UI/UX case study](https://github.com/nitsanbp22/personal-site-showcase)
-
-### [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
-
-An active mobile-first wardrobe product that helps users organize their closet and receive personalized outfit recommendations based on occasion, styling coherence, weather, comfort, and learned preferences.
-
-My work on SET includes product definition, UX flows, wardrobe and outfit modeling, recommendation behavior, personalization rules, responsive design, and full-stack implementation.
-
-Product highlights:
-
-- digital closet with structured wardrobe data
-- guided item onboarding and metadata enrichment
-- Dress Me recommendation experience
-- occasion-aware and weather-aware outfit suggestions
-- canonical outfit rules that prevent invalid combinations
-- personalization based on user behavior and saved looks
-- travel and suitcase mode
-- mobile-first PWA with Hebrew and English support
-
-[Explore SET](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
 ### [Family Recipes | Shared Family Recipe Library & AI-Assisted PWA](https://github.com/nitsanbp22/family-recipes-showcase)
 
@@ -146,7 +167,7 @@ Brand identity · visual systems · product positioning · interaction concepts 
 Domain modeling · permissions · recommendation logic · data flows · feature dependencies · product architecture
 
 **Technical Execution**  
-TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Framer Motion · Vercel
+TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Google Places · Leaflet · Framer Motion · Vercel
 
 ## How I work
 
