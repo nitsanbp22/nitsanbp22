@@ -29,7 +29,27 @@ Product highlights:
 
 Technical execution includes Next.js, React, TypeScript, Supabase, PostgreSQL, RLS, OAuth, PWA, and production security hardening.
 
-[Explore the BranDo product and engineering showcase](https://github.com/nitsanbp22/brando-showcase)
+[Explore BranDo](https://github.com/nitsanbp22/brando-showcase)
+
+### [Personal Brand Website | UI/UX, Visual Identity & Product Design](https://github.com/nitsanbp22/personal-site-showcase)
+
+**Live custom-domain website** that brings several creative disciplines into one coherent personal brand and business experience.
+
+The project focuses on translating a highly visual identity into a usable responsive product without losing hierarchy, clarity, or conversion paths.
+
+Product and design highlights:
+
+- visual identity and creative direction
+- information architecture across multiple services and work types
+- responsive redesign rather than simple desktop scaling
+- Hebrew RTL behavior
+- layered scrapbook-style visual system
+- portfolio and project presentation patterns
+- iterative UI/UX audit across desktop, tablet, and mobile
+- performance and asset tradeoff decisions
+- SEO, social preview, launch, and custom-domain delivery
+
+[Explore the website UI/UX case study](https://github.com/nitsanbp22/personal-site-showcase)
 
 ### [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
@@ -48,7 +68,26 @@ Product highlights:
 - travel and suitcase mode
 - mobile-first PWA with Hebrew and English support
 
-[Explore the SET product and engineering showcase](https://github.com/nitsanbp22/set-wardrobe-showcase)
+[Explore SET](https://github.com/nitsanbp22/set-wardrobe-showcase)
+
+### [Family Recipes | Shared Family Recipe Library & AI-Assisted PWA](https://github.com/nitsanbp22/family-recipes-showcase)
+
+**Live private family product** deployed under a custom domain and used to turn recipes scattered across links, text, screenshots, images, and messages into one structured shared library.
+
+The product combines low-friction capture, family collaboration, information architecture, and AI-assisted extraction using the Gemini API.
+
+Product highlights:
+
+- manual, link, text, image, and Android Share Target intake
+- Gemini-assisted recipe extraction with human review before saving
+- searchable recipe library with categories, tags, folders, and favorites
+- URL normalization and duplicate prevention
+- family roles with owner, editor, and viewer permissions
+- private storage and family-scoped access
+- mobile-first Hebrew RTL PWA
+- archive and recovery flows
+
+[Explore Family Recipes](https://github.com/nitsanbp22/family-recipes-showcase)
 
 ### [ConnectU | Accessibility Hackathon Product & UX Prototype](https://github.com/nitsanbp22/connectu-demo)
 
@@ -67,7 +106,7 @@ Product and UX highlights:
 - calm mobile-first Hebrew RTL interface
 - interactive React prototype for rapid concept validation
 
-[Explore the ConnectU product and UX case study](https://github.com/nitsanbp22/connectu-demo)
+[Explore the ConnectU case study](https://github.com/nitsanbp22/connectu-demo)
 
 ## What I focus on
 
@@ -81,7 +120,7 @@ User flows · information architecture · responsive UX · mobile-first design �
 Domain modeling · permissions · recommendation logic · data flows · feature dependencies · product architecture
 
 **Technical Execution**  
-TypeScript · Next.js · React · Supabase · PostgreSQL · Row Level Security · APIs · OAuth · Vercel
+TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Vercel
 
 ## How I work
 
@@ -94,19 +133,15 @@ I like taking a product problem and following it through the entire lifecycle:
 5. build and test the implementation
 6. review what works, identify friction, and iterate
 
-This end-to-end perspective is what I want to bring into Product Management and UI/UX roles, especially in teams where understanding both the user experience and the technical implications of product decisions matters.
+This perspective is what I want to bring into Product Management and UI/UX roles, especially in teams where understanding both the user experience and the technical implications of product decisions matters.
 
 ## Current direction
 
 I am especially interested in opportunities around:
 
 - Product Management
-- Product Operations and Product Strategy
+- Product Strategy and Product Operations
 - UI/UX and Product Design
 - Technical Product roles
 
 My strongest projects combine product ownership, UX thinking, business logic, and hands-on technical execution.
-
----
-
-More product case studies and selected projects are being added to this profile over time.
