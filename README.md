@@ -31,6 +31,29 @@ Technical execution includes Next.js, React, TypeScript, Supabase, PostgreSQL, R
 
 [Explore BranDo](https://github.com/nitsanbp22/brando-showcase)
 
+### [HeartNote | Interactive Digital Greeting Platform](https://github.com/ilayadmoni/HeartNote)
+
+**Live co-founded product** for creating animated, interactive digital greetings that can be personalized and shared through a unique link.
+
+HeartNote was built together with Ilay Admoni. My ownership in the project is centered on **product concept, brand identity, UI/UX, visual direction, template concepts, content experience, and front-end execution**.
+
+Product and design highlights:
+
+- product concept and positioning around interactive digital greetings
+- HeartNote brand identity and visual language
+- Hebrew-first RTL product experience
+- gallery, creation, editing, preview, and sharing user journey
+- visual and interaction concepts for a broad library of animated greeting templates
+- live editing of text, colors, images, and template-specific content
+- product hierarchy across free and premium experiences
+- responsive interface and accessibility-aware interaction patterns
+- front-end implementation using React, Next.js, Tailwind CSS, and Framer Motion
+- ongoing product ideation and iteration as part of a two-person founding team
+
+The production platform currently includes 20 interactive card types across birthdays, weddings, holidays, romantic experiences, games, and other occasions.
+
+[Visit HeartNote](https://heartnote.co.il) · [Explore the shared production repository](https://github.com/ilayadmoni/HeartNote)
+
 ### [Personal Brand Website | UI/UX, Visual Identity & Product Design](https://github.com/nitsanbp22/personal-site-showcase)
 
 **Live custom-domain website** that brings several creative disciplines into one coherent personal brand and business experience.
@@ -116,11 +139,14 @@ Product definition · feature prioritization · requirements · edge cases · wo
 **UI/UX & Product Design**  
 User flows · information architecture · responsive UX · mobile-first design · RTL interfaces · accessibility-aware interaction design · design consistency
 
+**Brand & Product Experience**  
+Brand identity · visual systems · product positioning · interaction concepts · content hierarchy · experience consistency
+
 **Systems Thinking**  
 Domain modeling · permissions · recommendation logic · data flows · feature dependencies · product architecture
 
 **Technical Execution**  
-TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Vercel
+TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Framer Motion · Vercel
 
 ## How I work
 
