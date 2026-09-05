@@ -33,10 +33,10 @@ My advantage is the combination: I can move from **user need → product decisio
 
 <table>
 <tr>
-<td width="300" valign="top">
-<a href="https://github.com/nitsanbp22/brando-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/brando-showcase/main/assets/screenshots/dashboard.png" width="280" alt="BranDo SaaS workspace dashboard"></a>
+<td width="24%" align="center" valign="middle">
+<a href="https://github.com/nitsanbp22/brando-showcase"><img src="assets/project-previews/brando-mobile.jpg" width="145" alt="BranDo mobile product experience"></a>
 </td>
-<td valign="top">
+<td width="76%" valign="top">
 <h3><a href="https://github.com/nitsanbp22/brando-showcase">BranDo | Brand Strategy, Content Planning & AI-Assisted SaaS</a></h3>
 <p><strong>Live SaaS product | End-to-end product ownership</strong></p>
 <p>I led BranDo from concept through product definition, UX, system design, implementation, security iterations and launch. The product combines brand strategy, content planning, AI-assisted workflows, multi-business workspaces, collaboration, permissions, subscriptions and integrations.</p>
@@ -50,10 +50,10 @@ My advantage is the combination: I can move from **user need → product decisio
 
 <table>
 <tr>
-<td width="300" valign="top">
-<a href="https://github.com/nitsanbp22/heartnote-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/heartnote-showcase/main/assets/screenshots/heartnote-gallery-desktop.png" width="280" alt="HeartNote interactive greeting gallery"></a>
+<td width="24%" align="center" valign="middle">
+<a href="https://github.com/nitsanbp22/heartnote-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/heartnote-showcase/main/assets/screenshots/heartnote-mobile-landing.png" width="145" alt="HeartNote mobile product experience"></a>
 </td>
-<td valign="top">
+<td width="76%" valign="top">
 <h3><a href="https://github.com/nitsanbp22/heartnote-showcase">HeartNote | Interactive Digital Greeting Platform</a></h3>
 <p><strong>Live co-founded product | Product, Brand, UI/UX & Front-End</strong></p>
 <p>Built together with Ilay Admoni. My ownership is centered on the product concept, positioning, brand identity, UI/UX, interaction concepts, content experience and front-end execution across a growing library of interactive greetings.</p>
@@ -67,10 +67,10 @@ My advantage is the combination: I can move from **user need → product decisio
 
 <table>
 <tr>
-<td width="300" valign="top">
-<a href="https://github.com/nitsanbp22/set-wardrobe-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/set-wardrobe-showcase/main/assets/screenshots/outfits-desktop.png" width="280" alt="SET smart wardrobe and outfits experience"></a>
+<td width="24%" align="center" valign="middle">
+<a href="https://github.com/nitsanbp22/set-wardrobe-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/set-wardrobe-showcase/main/assets/screenshots/dress-me-mobile.png" width="145" alt="SET Dress Me recommendation experience"></a>
 </td>
-<td valign="top">
+<td width="76%" valign="top">
 <h3><a href="https://github.com/nitsanbp22/set-wardrobe-showcase">SET | Smart Wardrobe & Outfit Recommendation Platform</a></h3>
 <p><strong>Active consumer product | Recommendations & personalization</strong></p>
 <p>A mobile-first wardrobe platform that organizes a user's closet and generates outfit recommendations based on occasion, weather, styling coherence, comfort and learned preferences.</p>
@@ -84,10 +84,10 @@ My advantage is the combination: I can move from **user need → product decisio
 
 <table>
 <tr>
-<td width="300" valign="top">
-<a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/berlin-trip-planner-showcase/main/assets/screenshots/berlin-map-split-desktop.png" width="280" alt="Berlin Trip Planner map and itinerary workspace"></a>
+<td width="24%" align="center" valign="middle">
+<a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/berlin-trip-planner-showcase/main/assets/screenshots/berlin-map-split-desktop.png" width="205" alt="Berlin Trip Planner map and itinerary workspace"></a>
 </td>
-<td valign="top">
+<td width="76%" valign="top">
 <h3><a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase">Berlin Trip Planner | Collaborative Map-Based Travel Planning Product</a></h3>
 <p><strong>Live private product used during a real trip | Maps, collaboration & real-world iteration</strong></p>
 <p>Built to replace fragmented planning across Maps, notes, messages and saved places. The current product combines <strong>130 curated places across 7 trip days</strong>, day-based itineraries, interactive maps, Google Places enrichment, shared trip state and personal travel tools.</p>
