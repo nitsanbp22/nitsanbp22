@@ -29,7 +29,9 @@ My advantage is the combination: I can move from **user need → product decisio
 
 ## Featured work
 
-### 🔵 [BranDo | Brand Strategy, Content Planning & AI-Assisted SaaS](https://github.com/nitsanbp22/brando-showcase)
+<img src="assets/project-accents/brando.svg" width="100%" height="6" alt="">
+
+### [BranDo | Brand Strategy, Content Planning & AI-Assisted SaaS](https://github.com/nitsanbp22/brando-showcase)
 
 **Live SaaS product | End-to-end product ownership**
 
@@ -39,9 +41,9 @@ I led BranDo from concept through product definition, UX, system design, impleme
 
 [View case study](https://github.com/nitsanbp22/brando-showcase)
 
----
+<img src="assets/project-accents/heartnote.svg" width="100%" height="6" alt="">
 
-### 🟠 [HeartNote | Interactive Digital Greeting Platform](https://github.com/nitsanbp22/heartnote-showcase)
+### [HeartNote | Interactive Digital Greeting Platform](https://github.com/nitsanbp22/heartnote-showcase)
 
 **Live co-founded product | Product, Brand, UI/UX & Front-End**
 
@@ -51,9 +53,9 @@ Built together with Ilay Admoni. My ownership is centered on the product concept
 
 [View case study](https://github.com/nitsanbp22/heartnote-showcase) · [Visit live product](https://heartnote.co.il)
 
----
+<img src="assets/project-accents/set.svg" width="100%" height="6" alt="">
 
-### 🟢 [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
+### [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
 **Active consumer product | Recommendations & personalization**
 
@@ -63,9 +65,9 @@ A mobile-first wardrobe platform that organizes a user's closet and generates ou
 
 [View case study](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
----
+<img src="assets/project-accents/berlin.svg" width="100%" height="6" alt="">
 
-### 🔴 [Berlin Trip Planner | Collaborative Map-Based Travel Planning Product](https://github.com/nitsanbp22/berlin-trip-planner-showcase)
+### [Berlin Trip Planner | Collaborative Map-Based Travel Planning Product](https://github.com/nitsanbp22/berlin-trip-planner-showcase)
 
 **Live private product used during a real trip | Maps, collaboration & real-world iteration**
 
@@ -81,9 +83,9 @@ Built to replace fragmented planning across Maps, notes, messages and saved plac
 
 | Project | What it demonstrates |
 | --- | --- |
-| 🟣 [Personal Brand Website](https://github.com/nitsanbp22/personal-site-showcase) | UI/UX, visual identity, responsive design, information architecture and personal branding |
-| 🟡 [Family Recipes](https://github.com/nitsanbp22/family-recipes-showcase) | AI-assisted workflows, human review, collaborative information architecture and mobile PWA design |
-| 🔹 [ConnectU](https://github.com/nitsanbp22/connectu-demo) | Accessibility problem framing, privacy, rapid prototyping and hackathon product decisions |
+| [Personal Brand Website](https://github.com/nitsanbp22/personal-site-showcase) | UI/UX, visual identity, responsive design, information architecture and personal branding |
+| [Family Recipes](https://github.com/nitsanbp22/family-recipes-showcase) | AI-assisted workflows, human review, collaborative information architecture and mobile PWA design |
+| [ConnectU](https://github.com/nitsanbp22/connectu-demo) | Accessibility problem framing, privacy, rapid prototyping and hackathon product decisions |
 
 ---
 
