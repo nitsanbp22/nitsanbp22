@@ -31,7 +31,7 @@ Technical execution includes Next.js, React, TypeScript, Supabase, PostgreSQL, R
 
 [Explore BranDo](https://github.com/nitsanbp22/brando-showcase)
 
-### [HeartNote | Interactive Digital Greeting Platform](https://github.com/ilayadmoni/HeartNote)
+### [HeartNote | Interactive Digital Greeting Platform](https://github.com/nitsanbp22/heartnote-showcase)
 
 **Live co-founded product** for creating animated, interactive digital greetings that can be personalized and shared through a unique link.
 
@@ -50,9 +50,9 @@ Product and design highlights:
 - front-end implementation using React, Next.js, Tailwind CSS, and Framer Motion
 - ongoing product ideation and iteration as part of a two-person founding team
 
-The production platform currently includes 20 interactive card types across birthdays, weddings, holidays, romantic experiences, games, and other occasions.
+The production platform currently includes around 20 interactive greeting types across birthdays, weddings, holidays, romantic experiences, games, and other occasions.
 
-[Visit HeartNote](https://heartnote.co.il) · [Explore the shared production repository](https://github.com/ilayadmoni/HeartNote)
+[Explore the Product, Brand & UI/UX case study](https://github.com/nitsanbp22/heartnote-showcase) · [Visit HeartNote](https://heartnote.co.il)
 
 ### [Personal Brand Website | UI/UX, Visual Identity & Product Design](https://github.com/nitsanbp22/personal-site-showcase)
 
