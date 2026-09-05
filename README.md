@@ -80,7 +80,7 @@ My advantage is the combination: I can move from **user need → product decisio
 </tr>
 </table>
 
-<img src="assets/project-accents/berlin.svg" width="100%" height="6" alt="">
+<img src="berlin-trip-planner-showcase-screenshots/berlin-map-all-mobile.png" width="220" alt="Berlin Trip Planner mobile screenshot" />
 
 <table>
 <tr>
