@@ -50,13 +50,32 @@ Product highlights:
 
 [Explore the SET product and engineering showcase](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
+### [ConnectU | Accessibility Hackathon Product & UX Prototype](https://github.com/nitsanbp22/connectu-demo)
+
+An interactive mobile prototype created during a college hackathon focused on improving accessibility for students with physical and mental disabilities.
+
+The project explores how students can communicate practical support needs, control disclosure, access a trusted support circle, and receive accessibility support inside their everyday academic experience.
+
+Product and UX highlights:
+
+- accessibility problem framing under hackathon time constraints
+- support-preference taxonomy centered on needs rather than diagnoses
+- explicit private, public, and close-circle sharing states
+- contextual and anonymous accessibility support
+- task decomposition and academic continuity
+- mentors, peer support, and trusted-circle flows
+- calm mobile-first Hebrew RTL interface
+- interactive React prototype for rapid concept validation
+
+[Explore the ConnectU product and UX case study](https://github.com/nitsanbp22/connectu-demo)
+
 ## What I focus on
 
 **Product Management**  
 Product definition · feature prioritization · requirements · edge cases · workflow design · product iteration
 
 **UI/UX & Product Design**  
-User flows · information architecture · responsive UX · mobile-first design · RTL interfaces · design consistency
+User flows · information architecture · responsive UX · mobile-first design · RTL interfaces · accessibility-aware interaction design · design consistency
 
 **Systems Thinking**  
 Domain modeling · permissions · recommendation logic · data flows · feature dependencies · product architecture
