@@ -1,90 +1,93 @@
 # Hi, I'm Nitsan Ben Porat
 
-**Product-oriented Full-Stack Developer · B.Sc. Information Systems student**
+**Product Management & UI/UX focused · Full-stack product builder · B.Sc. Information Systems student**
 
-I build end-to-end digital products at the intersection of **engineering, product thinking, data, and UX**. I enjoy turning complex product requirements into clear systems — from data modeling and domain logic to responsive interfaces and production workflows.
+I design and build digital products from idea to working product, with a strong focus on **product thinking, user experience, information architecture, and clear system behavior**.
 
-## Selected projects
+My main interest is in Product Management and UI/UX. My technical background lets me go further than defining requirements or designing flows: I can also model the data, understand implementation tradeoffs, build full-stack features, test them, and take a product all the way to a working release.
 
-### [SET — Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
+I see development as an execution capability that helps me make better product decisions and ship ideas, rather than as the only focus of my work.
 
-A mobile-first wardrobe platform that helps users organize their closet and receive personalized outfit recommendations based on **occasion, styling coherence, weather, comfort, and learned preferences**.
+## Selected products
 
-Engineering highlights:
+### [BranDo | Brand Strategy, Content Planning & AI-Assisted SaaS](https://github.com/nitsanbp22/brando-showcase)
 
-- domain-driven recommendation pipeline;
-- canonical outfit validation rules;
-- confidence-aware personalization;
-- weather and thermal reasoning;
-- travel / suitcase mode;
-- responsive PWA behavior;
-- Hebrew / English support with RTL;
-- Supabase-backed data and authentication architecture.
+**Live SaaS product** for managing brand strategy, content planning, team collaboration, approvals, subscriptions, integrations, and AI-assisted workflows in one workspace.
 
-→ [Explore the SET engineering showcase](https://github.com/nitsanbp22/set-wardrobe-showcase)
+I led the product from concept through UX, system design, implementation, testing, security iterations, and launch.
 
-### [BranDo — Brand Strategy, Content Planning & AI-Assisted SaaS](https://github.com/nitsanbp22/brando-showcase)
+Product highlights:
 
-A multi-tenant SaaS workspace for managing brand strategy, content planning, team collaboration, approvals, subscriptions, integrations, and AI-assisted content workflows.
+- structured Brand Hub used as the source of truth across the product
+- content calendar and content creation workflows
+- AI Studio grounded in each business's brand context
+- multi-business workspace model with scoped roles and permissions
+- team collaboration, comments, approvals, exports, and notifications
+- subscription plans and feature entitlements
+- Google Calendar integration
+- Hebrew-first RTL SaaS experience
 
-Engineering highlights:
+Technical execution includes Next.js, React, TypeScript, Supabase, PostgreSQL, RLS, OAuth, PWA, and production security hardening.
 
-- two-level workspace / business authorization model;
-- PostgreSQL Row Level Security and role-based capabilities;
-- structured Brand Hub reused across product workflows;
-- brand-grounded AI prompt and content-intelligence flows;
-- subscription and usage entitlement logic;
-- Google OAuth / Calendar integration;
-- security hardening and permission-boundary audits;
-- Hebrew / RTL SaaS UX.
+[Explore the BranDo product and engineering showcase](https://github.com/nitsanbp22/brando-showcase)
 
-→ [Explore the BranDo engineering showcase](https://github.com/nitsanbp22/brando-showcase)
+### [SET | Smart Wardrobe & Outfit Recommendation Platform](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
-Both public repositories are curated engineering showcases. Their production codebases remain private and continue to evolve.
+An active mobile-first wardrobe product that helps users organize their closet and receive personalized outfit recommendations based on occasion, styling coherence, weather, comfort, and learned preferences.
 
-## Tech I work with
+My work on SET includes product definition, UX flows, wardrobe and outfit modeling, recommendation behavior, personalization rules, responsive design, and full-stack implementation.
 
-**Frontend**  
-TypeScript · Next.js · React · Tailwind CSS · Responsive / Mobile-first UI
+Product highlights:
 
-**Data & Backend**  
-Supabase · PostgreSQL · Row Level Security · REST / server-side data flows
+- digital closet with structured wardrobe data
+- guided item onboarding and metadata enrichment
+- Dress Me recommendation experience
+- occasion-aware and weather-aware outfit suggestions
+- canonical outfit rules that prevent invalid combinations
+- personalization based on user behavior and saved looks
+- travel and suitcase mode
+- mobile-first PWA with Hebrew and English support
 
-**Product Engineering**  
-Domain modeling · Recommendation systems · Multi-tenant SaaS · UX flows · Data modeling · Product architecture
+[Explore the SET product and engineering showcase](https://github.com/nitsanbp22/set-wardrobe-showcase)
 
-**Integrations & AI workflows**  
-OAuth · Calendar integrations · AI-assisted product workflows · Context grounding · Feature entitlements
+## What I focus on
 
-**Quality**  
-Vitest · React Testing Library · Playwright · Git / GitHub · Vercel
+**Product Management**  
+Product definition · feature prioritization · requirements · edge cases · workflow design · product iteration
 
-## How I approach product development
+**UI/UX & Product Design**  
+User flows · information architecture · responsive UX · mobile-first design · RTL interfaces · design consistency
 
-I like working across the full product lifecycle: understanding the user problem, defining behavior and edge cases, designing the data model and system boundaries, implementing the experience, and iterating based on what the product actually needs.
+**Systems Thinking**  
+Domain modeling · permissions · recommendation logic · data flows · feature dependencies · product architecture
 
-Some areas I especially enjoy:
+**Technical Execution**  
+TypeScript · Next.js · React · Supabase · PostgreSQL · Row Level Security · APIs · OAuth · Vercel
 
-- translating product rules into robust domain logic;
-- building systems that stay understandable as complexity grows;
-- connecting UX decisions to technical architecture;
-- designing authorization and data boundaries for real product workflows;
-- improving recommendation, personalization, and AI-assisted behavior iteratively;
-- treating security and QA as part of product engineering rather than a final checklist.
+## How I work
 
-## Featured engineering topics
+I like taking a product problem and following it through the entire lifecycle:
 
-Across the SET and BranDo showcases I document decisions that are useful to discuss in technical interviews, including:
+1. understand the user need and product goal
+2. define the flow, behavior, constraints, and edge cases
+3. design the information architecture and interface
+4. translate the product model into data and system behavior
+5. build and test the implementation
+6. review what works, identify friction, and iterate
 
-- structural invariants before recommendation scoring;
-- bounded candidate generation instead of brute force;
-- confidence-weighted personalization;
-- multi-tenant workspace and business-level authorization;
-- PostgreSQL RLS and capability boundaries;
-- grounding AI workflows in structured product context;
-- security review and iterative hardening;
-- separation between production systems and public portfolio surfaces.
+This end-to-end perspective is what I want to bring into Product Management and UI/UX roles, especially in teams where understanding both the user experience and the technical implications of product decisions matters.
+
+## Current direction
+
+I am especially interested in opportunities around:
+
+- Product Management
+- Product Operations and Product Strategy
+- UI/UX and Product Design
+- Technical Product roles
+
+My strongest projects combine product ownership, UX thinking, business logic, and hands-on technical execution.
 
 ---
 
-I'm currently building out my public engineering portfolio, with additional projects and case studies being added over time.
+More product case studies and selected projects are being added to this profile over time.
