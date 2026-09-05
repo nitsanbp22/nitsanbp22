@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nitsan Ben Porat
+# Nitsan Ben-Porat
 
 ### Product Management · UI/UX · Product Design
 
