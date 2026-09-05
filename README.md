@@ -80,12 +80,12 @@ My advantage is the combination: I can move from **user need → product decisio
 </tr>
 </table>
 
-<img src="berlin-trip-planner-showcase-screenshots/berlin-map-all-mobile.png" width="220" alt="Berlin Trip Planner mobile screenshot" />
+<img src="assets/project-accents/berlin.svg" width="100%" height="6" alt="">
 
 <table>
 <tr>
 <td width="24%" align="center" valign="middle">
-<a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/berlin-trip-planner-showcase/main/assets/screenshots/berlin-map-split-desktop.png" width="205" alt="Berlin Trip Planner map and itinerary workspace"></a>
+<a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase"><img src="https://raw.githubusercontent.com/nitsanbp22/berlin-trip-planner-showcase/main/assets/screenshots/berlin-map-all-mobile.png" width="145" alt="Berlin Trip Planner mobile map experience"></a>
 </td>
 <td width="76%" valign="top">
 <h3><a href="https://github.com/nitsanbp22/berlin-trip-planner-showcase">Berlin Trip Planner | Collaborative Map-Based Travel Planning Product</a></h3>
