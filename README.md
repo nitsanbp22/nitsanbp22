@@ -11,6 +11,8 @@ My focus is on **product thinking, user experience and system behavior**, with t
 
 **Target roles:** Product Management · Product Strategy · Product Operations · UI/UX · Product Design · Technical Product
 
+[Portfolio](https://www.nitsanbp.com) · [Featured Work](#featured-work) · [Product Case Studies](#more-product--design-case-studies)
+
 </div>
 
 ---
