@@ -4,12 +4,12 @@
 
 ### Product Management · UI/UX · Product Design
 
-**B.Sc. Information Systems student | Full-stack product builder**
+**B.Sc. Information Systems student | Technical product builder**
 
 I turn product problems into clear flows, thoughtful interfaces and working digital products.
 My focus is on **product thinking, user experience and system behavior**, with technical execution as a tool for shipping better decisions.
 
-**Target roles:** Product Management · Product Strategy · Product Operations · UI/UX · Product Design · Technical Product
+**Target roles:** Product Management · Product Strategy · UI/UX · Product Design · Technical Product
 
 [Featured Work](#featured-work) · [Product Case Studies](#more-product--design-case-studies)
 
@@ -123,13 +123,3 @@ Domain modeling · permissions · recommendation logic · shared state · data f
 
 **Technical Execution**  
 TypeScript · Next.js · React · Supabase · PostgreSQL · APIs · RLS · OAuth · Gemini API · Google Places · Leaflet · Framer Motion · Vercel
-
----
-
-<div align="center">
-
-### Current direction
-
-I am looking for opportunities where **product thinking, UX and technical understanding** reinforce each other, especially in Product Management, Product Strategy, Product Operations, UI/UX, Product Design and Technical Product roles.
-
-</div>
